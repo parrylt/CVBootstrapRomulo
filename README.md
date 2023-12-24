@@ -1,6 +1,6 @@
 # CVBootstrapRomulo
-curriculo feito com bootstrap para começar a aprender a usar ele
-
+curriculo feito com bootstrap para começar a aprender a usar bootstrap. Aula de CSS na Etec de Guarulhos.
+<br><br>
 <div align="center">
   <h3>Menu meio feinho. Primeira vez testando bootstrap</h3>
   <img src="ImagensCV/1.png">
